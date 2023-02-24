@@ -122,11 +122,11 @@ body{
     line-height:1.1
 }
 a.h1:focus,a.h1:hover,a.h2:focus,a.h2:hover,a.h3:focus,a.h3:hover,a.h4:focus,a.h4:hover,a.h5:focus,a.h5:hover,a.h6:focus,a.h6:hover{
-    color:#235784
+    color:#333
 }
 .theme-element{
     background:#ddeaf6;
-    color:#235784;
+    color:#333;
     border-radius:8px;
     display:-webkit-box;
     display:-ms-flexbox;
@@ -156,13 +156,13 @@ a.h1:focus,a.h1:hover,a.h2:focus,a.h2:hover,a.h3:focus,a.h3:hover,a.h4:focus,a.h
 }
 .theme-element--accent{
     color:#fff;
-    background:#235784
+    background:#333
 }
 .theme-element--accent .icon{
     color:#fff
 }
 .theme-element--light{
-    color:#235784
+    color:#333
 }
 .brand_logo{
     padding:10px;
@@ -199,11 +199,11 @@ a.h1:focus,a.h1:hover,a.h2:focus,a.h2:hover,a.h3:focus,a.h3:hover,a.h4:focus,a.h
     display:block
 }
 .accent{
-    background:#235784;
+    background:#333;
     color:#fff
 }
 .icon{
-    color:#235784
+    color:#333
 }
 .video-play{
     color:#fff;
@@ -223,7 +223,7 @@ a.h1:focus,a.h1:hover,a.h2:focus,a.h2:hover,a.h3:focus,a.h3:hover,a.h4:focus,a.h
     color:#fff
 }
 .link--arrow{
-    color:#235784;
+    color:#333;
     font-weight:700;
     font-family:Mulish,sans-serif;
     font-size:16px;
@@ -270,10 +270,10 @@ a.h1:focus,a.h1:hover,a.h2:focus,a.h2:hover,a.h3:focus,a.h3:hover,a.h4:focus,a.h
     text-shadow:0 0 0 #fff
 }
 .underlined--accent:after{
-    background:#235784
+    background:#333
 }
 .underlined--accent.active,.underlined--accent.current,.underlined--accent:focus,.underlined--accent:hover{
-    text-shadow:0 0 0 #235784
+    text-shadow:0 0 0 #333
 }
 .underlined.active:after,.underlined.current:after,.underlined:focus:after,.underlined:hover:after{
     width:100%
@@ -291,7 +291,7 @@ a.h1:focus,a.h1:hover,a.h2:focus,a.h2:hover,a.h3:focus,a.h3:hover,a.h4:focus,a.h
     padding:0 20px
 }
 .field:not(.field.booking_group-field):focus{
-    border-color:#235784
+    border-color:#333
 }
 .field-wrapper .icon{
     color:#808385
@@ -418,7 +418,7 @@ a.h1:focus,a.h1:hover,a.h2:focus,a.h2:hover,a.h3:focus,a.h3:hover,a.h4:focus,a.h
     font-size:16px;
     font-weight:700;
     font-family:Mulish,sans-serif;
-    color:#235784;
+    color:#333;
     top:0;
     right:0;
     border-radius:8px 0 0 8px
@@ -590,7 +590,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
     transform:translateY(-100%)
 }
 .header .brand_name{
-    color:#235784
+    color:#333
 }
 .header_offcanvas{
     padding:20px 12px;
@@ -612,7 +612,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
     -webkit-transform:translateY(-50%);
     -ms-transform:translateY(-50%);
     transform:translateY(-50%);
-    color:#235784
+    color:#333
 }
 .header_nav-list{
     display:-webkit-box;
@@ -631,7 +631,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
     transition:color .3s ease-in-out
 }
 .header_nav-list .nav-item.current,.header_nav-list .nav-item:focus,.header_nav-list .nav-item:hover{
-    color:#235784
+    color:#333
 }
 .header_nav-list .nav-link{
     line-height:1
@@ -666,7 +666,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
     margin-bottom:0
 }
 .header .socials{
-    color:#235784;
+    color:#333;
     margin-top:40px
 }
 .header .socials .list-item .link{
@@ -702,7 +702,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
         content:'';
         height:2px;
         width:0;
-        background:#235784;
+        background:#333;
         left:0;
         bottom:-8px;
         -webkit-transition:width .3s ease-in-out;
@@ -710,7 +710,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
         transition:width .3s ease-in-out
     }
     .header_nav .nav-item.current,.header_nav .nav-item:focus,.header_nav .nav-item:hover,.header_nav .nav-link.current,.header_nav .nav-link:focus,.header_nav .nav-link:hover{
-        text-shadow:0 0 0 #235784
+        text-shadow:0 0 0 #333
     }
     .header_nav .nav-item.current:after,.header_nav .nav-item:focus:after,.header_nav .nav-item:hover:after,.header_nav .nav-link.current:after,.header_nav .nav-link:focus:after,.header_nav .nav-link:hover:after{
         width:100%
@@ -743,7 +743,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
     .header_nav-list_item .nav-link--contacts{
         padding:10px 25px;
         background:#ddeaf6;
-        color:#235784;
+        color:#333;
         border-radius:8px;
         font-weight:700;
         margin-right:0
@@ -825,7 +825,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
 .page .breadcrumbs .list-item .link{
     padding-right:10px;
     position:relative;
-    color:#235784;
+    color:#333;
     font-weight:600
 }
 .page .breadcrumbs .list-item .link:after{
@@ -854,7 +854,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
 }
 .accordion_component-item_header[aria-expanded=true]{
     margin-bottom:15px;
-    color:#235784
+    color:#333
 }
 .accordion_component-item_header[aria-expanded=true] .icon{
     -webkit-transform:rotate(180deg);
@@ -895,7 +895,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
     background:#ddeaf6
 }
 .faq_nav-list_item:hover:not(.faq_nav-list_item[aria-selected=true]){
-    color:#235784
+    color:#333
 }
 .faq_tabs .accordion_component-item{
     width:100%
@@ -1134,10 +1134,10 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
     padding:30px
 }
 .modal_popup--promo .main_subtitle{
-    color:#235784;
+    color:#333;
     margin-bottom:30px;
     height:46px;
-    border-left:3px solid #235784;
+    border-left:3px solid #333;
     padding-left:10px;
     display:-webkit-box;
     display:-ms-flexbox;
@@ -1171,7 +1171,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
     display:none
 }
 .modal_popup--promo .main .timer_block-number{
-    color:#235784
+    color:#333
 }
 .modal_popup--promo .media{
     display:none
@@ -1206,7 +1206,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"]{
     right:15px
 }
 .alert_popup-close:focus,.alert_popup-close:hover{
-    color:#235784
+    color:#333
 }
 @media screen and (min-width:575.98px){
     .modal_popup--promo .modal_popup-close{
